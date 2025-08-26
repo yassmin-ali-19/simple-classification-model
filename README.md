@@ -1,5 +1,5 @@
-Breast Cancer Classification Project
-📌 Overview
+# Breast Cancer Classification Project
+** 📌 Overview **
 
 This project aims to classify breast cancer tumors as benign or malignant using machine learning techniques. The dataset is analyzed, visualized, preprocessed, and then modeled to evaluate classification performance.
 
