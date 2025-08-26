@@ -4,18 +4,17 @@
 This project aims to classify breast cancer tumors as benign or malignant using machine learning techniques. The dataset is analyzed, visualized, preprocessed, and then modeled to evaluate classification performance.
 
 **📂 Project Structure**
+* Breast_Cancer_Classification_Project.ipynb → Jupyter Notebook containing the full workflow:
 
-Breast_Cancer_Classification_Project.ipynb → Jupyter Notebook containing the full workflow:
+* Data loading and cleaning
 
-Data loading and cleaning
+* Exploratory data analysis (EDA)
 
-Exploratory data analysis (EDA)
+* Feature preprocessing and scaling
 
-Feature preprocessing and scaling
+* Train-test split
 
-Train-test split
-
-Model training and evaluation
+* Model training and evaluation
 
 **🛠️ Technologies Used**
 
